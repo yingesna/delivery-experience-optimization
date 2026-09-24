@@ -63,7 +63,7 @@ The experiment uses 4 weeks of enrollment followed by a 30-day follow-up period 
 
 ## Dashboard
 
-[View the Delivery Experience Dashboard](./dashboard/delivery_experience_dashboard.pdf)
+[View the Delivery Experience Dashboard](./delivery_experience_dashboard.pdf)
 
 ## Data Disclaimer
 
